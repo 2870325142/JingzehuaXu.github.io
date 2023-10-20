@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jingzehua Xu (徐敬泽华), a first-year M.S student at [Department of Electronic Engeering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. Yi Li and Yong Ren. Before that, I obtained my bachelor's dual degrees of Science ＆ Engineering from Zhejiang University, majoring both in Marine Science ＆ Electronic Science and Technology.
+Hi, I am Jingzehua Xu (徐敬泽华), a first-year M.S student at [Department of Electronic Engeering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. Yi Li and Yong Ren. Before that, I obtained my bachelor's dual degrees of Science ＆ Engineering from Zhejiang University, majoring both in Marine Science ＆ Electronic Science and Technology. I've worked as a research assistant in [Westlake University](https://www.westlake.edu.cn/)([Machine Intelligence Lab, MiLAB](https://milab.westlake.edu.cn/)), supervised by Prof. Donglin Wang.
 The central goal of my research is to build decision-making agents that are capable of performing complex tasks in a variety of unstructured environments. I strive to achieve this by developing deep reinforcement learning (RL) algorithms and deploying sample-efficient RL to real-world tasks. My research helps people acquire general and robust decision-making behaviors in both simulated and real-world tasks. Especially, I study three main topics:
 
 Deep Reinforcement Learning (RL): focusing on general and ready-to-be-deployed RL algorithms, i.e, imitation learning, reward-free RL, unsupervised RL (learning skills), and RL in real-world tasks (games).
